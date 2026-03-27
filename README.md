@@ -229,9 +229,9 @@ Mở file src/main.c (hoặc main.ino) bằng IDE phù hợp
 
 | STT | Họ và tên | MSSV | Vai trò |
 |-----|-----------|------|---------|
-| 1 | `[Họ và tên]` | `[MSSV]` | Nhóm trưởng – `[Phân công]` |
-| 2 | `[Họ và tên]` | `[MSSV]` | Thành viên – `[Phân công]` |
-| 3 | `[Họ và tên]` | `[MSSV]` | Thành viên – `[Phân công]` |
+| 1 | `Dương Gia Bảo` | `23520097` | Nhóm trưởng – `[Phân công]` |
+| 2 | `Huỳnh Trịnh Ý` | `21522817` | Thành viên – `[Phân công]` |
+| 3 | `Lê Phan Thanh Bình` | `23520154` | Thành viên – `[Phân công]` |
 
 > 📌 *Điền đầy đủ thông tin nhóm trước khi nộp / public repo.*
 
